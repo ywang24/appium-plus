@@ -1,11 +1,11 @@
 {
   "name": "appium-plus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Lillian Wang",
   "description": "More useful helper methods to Appium",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenchaoyi/appium-plus"
+    "url": "https://github.com/ywang24/appium-plus"
   },
   "license": "MIT",
   "engines": {
