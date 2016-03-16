@@ -21,4 +21,3 @@ Licensed under the [MIT](http://opensource.org/licenses/MIT)
 [downloads-image]: http://img.shields.io/npm/dm/appium-plus.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/appium-plus
 [gittip-image]: https://img.shields.io/gittip/chenchaoyi.svg?style=flat-square
-[gittip-url]: https://www.gittip.com/chenchaoyi/
